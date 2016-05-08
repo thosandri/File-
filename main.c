@@ -8,6 +8,7 @@ int main(int argc, char* argv[]){
 	push(f,4);
 	push(f,7);
 	push(f,8);
+	ipush(f,34);
 	
 	print(f);
 	
